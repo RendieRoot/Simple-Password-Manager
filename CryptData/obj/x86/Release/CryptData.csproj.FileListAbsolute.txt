@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\bin\Release\CryptData.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\bin\Release\CryptData.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormAbout.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormLogin.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormEdit.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormHome.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormSet.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormSettings.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptData\CryptData\obj\x86\Release\CryptData.FormFile.resources
